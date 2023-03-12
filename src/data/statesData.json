@@ -1,0 +1,1052 @@
+[
+	{
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"largest_city": "Birmingham",
+		"abbreviation": "AL",
+		"region": "South",
+		"image_url": "https://static01.nyt.com/images/2022/07/27/opinion/27kaiserschatzlein-9/merlin_210625494_5318b712-c310-479d-b1b8-b6d972dfa454-mobileMasterAt3x.jpg",
+		"description": "Alabama is a southeastern U.S. state that’s home to significant landmarks from the American Civil Rights Movement.",
+		"famous_foods": [
+			{
+				"name": "Fried Chicken",
+				"image_url": "/images/fried-chicken.jpg",
+				"description": "Crispy and delicious fried chicken is a staple in Alabama cuisine."
+			},
+			{
+				"name": "Shrimp and Grits",
+				"image_url": "/images/shrimp-grits.jpg",
+				"description": "This Southern classic is a must-try in Alabama, where it's often served with spicy andouille sausage."
+			}
+		]
+	},
+	{
+		"name": "Alaska",
+		"capital": "Juneau",
+		"largest_city": "Anchorage",
+		"abbreviation": "AK",
+		"region": "West",
+		"image_url": "https://uploads.alaska.org/advice/_640x560_crop_center-center_65_none/homepage-step1.jpg?mtime=20201111130705&focal=none&tmtime=20210629051457",
+		"description": "Alaska is a U.S. state located in the northwest extremity of the North American continent.",
+		"famous_foods": [
+			{
+				"name": "Salmon",
+				"image_url": "/images/salmon.jpg",
+				"description": "Alaska is known for its fresh and delicious salmon, which can be enjoyed grilled, smoked, or even raw."
+			},
+			{
+				"name": "Reindeer Sausage",
+				"image_url": "/images/reindeer-sausage.jpg",
+				"description": "This unique sausage made from reindeer meat is a popular food in Alaska, particularly in the city of Anchorage."
+			}
+		]
+	},
+	{
+		"name": "Arizona",
+		"capital": "Phoenix",
+		"largest_city": "Phoenix",
+		"abbreviation": "AZ",
+		"region": "West",
+		"image_url": "https://lp-cms-production.imgix.net/2021-04/GettyImages-1282955095.jpg",
+		"description": "Arizona is a southwestern U.S. state known for its deserts, beautiful canyons, and rugged mountain ranges.",
+		"famous_foods": [
+			{
+				"name": "Tacos",
+				"image_url": "/images/tacos.jpg",
+				"description": "Arizona has a strong Mexican influence, which means you'll find plenty of delicious tacos throughout the state."
+			},
+			{
+				"name": "Navajo Fry Bread",
+				"image_url": "/images/fry-bread.jpg",
+				"description": "This traditional Native American food is a popular dish in Arizona, often served with honey or jam."
+			}
+		]
+	},
+	{
+		"name": "Arkansas",
+		"capital": "Little Rock",
+		"largest_city": "Little Rock",
+		"abbreviation": "AR",
+		"region": "South",
+		"image_url": "https://www.arkansas.com/sites/default/files/styles/hero_image/public/2020-09/Arkansas%20River%20-%20Little%20Rock%20-%20Arkansas%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Arkansas is a U.S. state located in the southeastern region of the country.",
+		"famous_foods": [
+			{
+				"name": "Catfish",
+				"image_url": "/images/catfish.jpg",
+				"description": "Catfish is a popular food in Arkansas, where it's often served fried and topped with tartar sauce."
+			},
+			{
+				"name": "Pecan Pie",
+				"image_url": "/images/pecan-pie.jpg",
+				"description": "Pecan pie is a staple in Arkansas cuisine, where it's often served with a scoop of vanilla ice cream."
+			}
+		]
+	},
+	{
+		"name": "California",
+		"capital": "Sacramento",
+		"largest_city": "Los Angeles",
+		"abbreviation": "CA",
+		"region": "West",
+		"image_url": "https://www.california.com/sites/default/files/styles/hero_image/public/2020-09/California%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "California is a U.S. state located on the West Coast of the country.",
+		"famous_foods": [
+			{
+				"name": "Avocado Toast",
+				"image_url": "/images/avocado-toast.jpg",
+				"description": "Avocado toast is a popular breakfast dish in California, where it's often served with a poached egg."
+			},
+			{
+				"name": "Tacos",
+				"image_url": "/images/tacos.jpg",
+				"description": "California is known for its delicious tacos, which can be enjoyed in a variety of different styles."
+			}
+		]
+	},
+	{
+		"name": "Colorado",
+		"capital": "Denver",
+		"largest_city": "Denver",
+		"abbreviation": "CO",
+		"region": "West",
+		"image_url": "https://www.colorado.com/sites/default/files/styles/hero_image/public/2020-09/Colorado%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Colorado is a U.S. state located in the Rocky Mountains region of the country.",
+		"famous_foods": [
+			{
+				"name": "Green Chili",
+				"image_url": "/images/green-chili.jpg",
+				"description": "Green chili is a popular dish in Colorado, where it's often served with eggs, potatoes, and tortillas."
+			},
+			{
+				"name": "Denver Omelette",
+				"image_url": "/images/denver-omelette.jpg",
+				"description": "This omelette is a staple in Colorado cuisine, where it's often served with green chili and cheese."
+			}
+		]
+	},
+	{
+		"name": "Connecticut",
+		"capital": "Hartford",
+		"largest_city": "Bridgeport",
+		"abbreviation": "CT",
+		"region": "Northeast",
+		"image_url": "https://www.ctvisit.com/sites/default/files/styles/hero_image/public/2020-09/Connecticut%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Connecticut is a northeastern U.S. state known for its beautiful coastline and historic cities.",
+		"famous_foods": [
+			{
+				"name": "Clam Chowder",
+				"image_url": "/images/clam-chowder.jpg",
+				"description": "Clam chowder is a popular dish in Connecticut, where it's often served with a side of oyster crackers."
+			},
+			{
+				"name": "Steamed Clams",
+				"image_url": "/images/steamed-clams.jpg",
+				"description": "Steamed clams are a staple in Connecticut cuisine, where they're often served with a side of cornbread."
+			}
+		]
+	},
+	{
+		"name": "Delaware",
+		"capital": "Dover",
+		"largest_city": "Wilmington",
+		"abbreviation": "DE",
+		"region": "South",
+		"image_url": "https://www.visitdelaware.com/sites/default/files/styles/hero_image/public/2020-09/Delaware%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Delaware is a U.S. state located on the Atlantic Coast of the country.",
+		"famous_foods": [
+			{
+				"name": "Soft Pretzels",
+				"image_url": "/images/soft-pretzels.jpg",
+				"description": "Soft pretzels are a popular snack in Delaware, where they're often served with a side of mustard."
+			},
+			{
+				"name": "Chicken Cheesesteak",
+				"image_url": "/images/chicken-cheesesteak.jpg",
+				"description": "This popular sandwich is a staple in Delaware cuisine, where it's often served with a side of fries."
+			}
+		]
+	},
+	{
+		"name": "Florida",
+		"capital": "Tallahassee",
+		"largest_city": "Jacksonville",
+		"abbreviation": "FL",
+		"region": "South",
+		"image_url": "https://www.visitflorida.com/sites/default/files/styles/hero_image/public/2020-09/Florida%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Florida is a southeastern U.S. state known for its beautiful beaches and warm weather.",
+		"famous_foods": [
+			{
+				"name": "Key Lime Pie",
+				"image_url": "/images/key-lime-pie.jpg",
+				"description": "Key lime pie is a popular dessert in Florida, where it's often served with a side of whipped cream."
+			},
+			{
+				"name": "Shrimp",
+				"image_url": "/images/shrimp.jpg",
+				"description": "Shrimp is a staple in Florida cuisine, where it's often served with a side of rice and vegetables."
+			}
+		]
+	},
+	{
+		"name": "Georgia",
+		"capital": "Atlanta",
+		"largest_city": "Atlanta",
+		"abbreviation": "GA",
+		"region": "South",
+		"image_url": "https://www.exploregeorgia.org/sites/default/files/styles/hero_image/public/2020-09/Georgia%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Georgia is a southeastern U.S. state known for its beautiful beaches and warm weather.",
+		"famous_foods": [
+			{
+				"name": "Peach Cobbler",
+				"image_url": "/images/peach-cobbler.jpg",
+				"description": "Peach cobbler is a popular dessert in Georgia, where it's often served with a side of vanilla ice cream."
+			},
+			{
+				"name": "Chicken and Waffles",
+				"image_url": "/images/chicken-and-waffles.jpg",
+				"description": "This popular dish is a staple in Georgia cuisine, where it's often served with a side of syrup."
+			}
+		]
+	},
+	{
+		"name": "Hawaii",
+		"capital": "Honolulu",
+		"largest_city": "Honolulu",
+		"abbreviation": "HI",
+		"region": "West",
+		"image_url": "https://www.gohawaii.com/sites/default/files/styles/hero_image/public/2020-09/Hawaii%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Hawaii is a U.S. state located in the Pacific Ocean.",
+		"famous_foods": [
+			{
+				"name": "Hawaiian Pizza",
+				"image_url": "/images/hawaiian-pizza.jpg",
+				"description": "Hawaiian pizza is a popular dish in Hawaii, where it's often served with a side of pineapple juice."
+			},
+			{
+				"name": "Lomi Lomi Salmon",
+				"image_url": "/images/lomi-lomi-salmon.jpg",
+				"description": "This popular dish is a staple in Hawaii cuisine, where it's often served with a side of rice."
+			}
+		]
+	},
+	{
+		"name": "Idaho",
+		"capital": "Boise",
+		"largest_city": "Boise",
+		"abbreviation": "ID",
+		"region": "West",
+		"image_url": "https://www.visitidaho.org/sites/default/files/styles/hero_image/public/2020-09/Idaho%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Idaho is a U.S. state located in the Pacific Northwest.",
+		"famous_foods": [
+			{
+				"name": "Baked Potato",
+				"image_url": "/images/baked-potato.jpg",
+				"description": "Baked potatoes are a popular side dish in Idaho, where they're often served with a side of sour cream."
+			},
+			{
+				"name": "Fried Potatoes",
+				"image_url": "/images/fried-potatoes.jpg",
+				"description": "Fried potatoes are a staple in Idaho cuisine, where they're often served with a side of eggs."
+			}
+		]
+	},
+	{
+		"name": "Illinois",
+		"capital": "Springfield",
+		"largest_city": "Chicago",
+		"abbreviation": "IL",
+		"region": "Midwest",
+		"image_url": "https://www.enjoyillinois.com/sites/default/files/styles/hero_image/public/2020-09/Illinois%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Illinois is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Deep Dish Pizza",
+				"image_url": "/images/deep-dish-pizza.jpg",
+				"description": "Deep dish pizza is a popular dish in Illinois, where it's often served with a side of garlic bread."
+			},
+			{
+				"name": "Chicago Dog",
+				"image_url": "/images/chicago-dog.jpg",
+				"description": "This popular hot dog is a staple in Illinois cuisine, where it's often served with a side of fries."
+			}
+		]
+	},
+	{
+		"name": "Indiana",
+		"capital": "Indianapolis",
+		"largest_city": "Indianapolis",
+		"abbreviation": "IN",
+		"region": "Midwest",
+		"image_url": "https://www.visitindiana.com/sites/default/files/styles/hero_image/public/2020-09/Indiana%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Indiana is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Hoosier Sugar Cream Pie",
+				"image_url": "/images/hoosier-sugar-cream-pie.jpg",
+				"description": "Hoosier sugar cream pie is a popular dessert in Indiana, where it's often served with a side of whipped cream."
+			},
+			{
+				"name": "Hoosier Hot Dog",
+				"image_url": "/images/hoosier-hot-dog.jpg",
+				"description": "This popular hot dog is a staple in Indiana cuisine, where it's often served with a side of fries."
+			}
+		]
+	},
+	{
+		"name": "Iowa",
+		"capital": "Des Moines",
+		"largest_city": "Des Moines",
+		"abbreviation": "IA",
+		"region": "Midwest",
+		"image_url": "https://www.traveliowa.com/sites/default/files/styles/hero_image/public/2020-09/Iowa%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Iowa is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Pork Tenderloin",
+				"image_url": "/images/pork-tenderloin.jpg",
+				"description": "Pork tenderloin is a popular dish in Iowa, where it's often served with a side of mashed potatoes."
+			},
+			{
+				"name": "Pork Chops",
+				"image_url": "/images/pork-chops.jpg",
+				"description": "Pork chops are a staple in Iowa cuisine, where they're often served with a side of mashed potatoes."
+			}
+		]
+	},
+	{
+		"name": "Kansas",
+		"capital": "Topeka",
+		"largest_city": "Wichita",
+		"abbreviation": "KS",
+		"region": "Midwest",
+		"image_url": "https://www.travelks.com/sites/default/files/styles/hero_image/public/2020-09/Kansas%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Kansas is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Kansas City Barbecue",
+				"image_url": "/images/kansas-city-barbecue.jpg",
+				"description": "Kansas City barbecue is a popular dish in Kansas, where it's often served with a side of baked beans."
+			},
+			{
+				"name": "Kansas City Steak",
+				"image_url": "/images/kansas-city-steak.jpg",
+				"description": "Kansas City steak is a staple in Kansas cuisine, where it's often served with a side of baked beans."
+			}
+		]
+	},
+	{
+		"name": "Kentucky",
+		"capital": "Frankfort",
+		"largest_city": "Louisville",
+		"abbreviation": "KY",
+		"region": "South",
+		"image_url": "https://www.kentuckytourism.com/sites/default/files/styles/hero_image/public/2020-09/Kentucky%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Kentucky is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Kentucky Hot Brown",
+				"image_url": "/images/kentucky-hot-brown.jpg",
+				"description": "Kentucky hot brown is a popular dish in Kentucky, where it's often served with a side of mashed potatoes."
+			},
+			{
+				"name": "Kentucky Fried Chicken",
+				"image_url": "/images/kentucky-fried-chicken.jpg",
+				"description": "Kentucky fried chicken is a staple in Kentucky cuisine, where it's often served with a side of mashed potatoes."
+			}
+		]
+	},
+	{
+		"name": "Louisiana",
+		"capital": "Baton Rouge",
+		"largest_city": "New Orleans",
+		"abbreviation": "LA",
+		"region": "South",
+		"image_url": "https://www.louisianatravel.com/sites/default/files/styles/hero_image/public/2020-09/Louisiana%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Louisiana is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Crawfish Etouffee",
+				"image_url": "/images/crawfish-etouffee.jpg",
+				"description": "Crawfish etouffee is a popular dish in Louisiana, where it's often served with a side of rice."
+			},
+			{
+				"name": "Jambalaya",
+				"image_url": "/images/jambalaya.jpg",
+				"description": "Jambalaya is a staple in Louisiana cuisine, where it's often served with a side of rice."
+			}
+		]
+	},
+	{
+		"name": "Maine",
+		"capital": "Augusta",
+		"largest_city": "Portland",
+		"abbreviation": "ME",
+		"region": "Northeast",
+		"image_url": "https://www.visitmaine.com/sites/default/files/styles/hero_image/public/2020-09/Maine%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Maine is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "Lobster Roll",
+				"image_url": "/images/lobster-roll.jpg",
+				"description": "Lobster roll is a popular dish in Maine, where it's often served with a side of fries."
+			},
+			{
+				"name": "Lobster Bisque",
+				"image_url": "/images/lobster-bisque.jpg",
+				"description": "Lobster bisque is a staple in Maine cuisine, where it's often served with a side of fries."
+			}
+		]
+	},
+	{
+		"name": "Maryland",
+		"capital": "Annapolis",
+		"largest_city": "Baltimore",
+		"abbreviation": "MD",
+		"region": "South",
+		"image_url": "https://www.visitmaryland.org/sites/default/files/styles/hero_image/public/2020-09/Maryland%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Maryland is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Maryland Crab Cakes",
+				"image_url": "/images/maryland-crab-cakes.jpg",
+				"description": "Maryland crab cakes are a popular dish in Maryland, where they're often served with a side of fries."
+			},
+			{
+				"name": "Maryland Crab Soup",
+				"image_url": "/images/maryland-crab-soup.jpg",
+				"description": "Maryland crab soup is a staple in Maryland cuisine, where it's often served with a side of fries."
+			}
+		]
+	},
+	{
+		"name": "Massachusetts",
+		"capital": "Boston",
+		"largest_city": "Boston",
+		"abbreviation": "MA",
+		"region": "Northeast",
+		"image_url": "https://www.massvacation.com/sites/default/files/styles/hero_image/public/2020-09/Massachusetts%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Massachusetts is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "Boston Cream Pie",
+				"image_url": "/images/boston-cream-pie.jpg",
+				"description": "Boston cream pie is a popular dish in Massachusetts, where it's often served with a side of ice cream."
+			},
+			{
+				"name": "Boston Baked Beans",
+				"image_url": "/images/boston-baked-beans.jpg",
+				"description": "Boston baked beans is a staple in Massachusetts cuisine, where it's often served with a side of ice cream."
+			}
+		]
+	},
+	{
+		"name": "Michigan",
+		"capital": "Lansing",
+		"largest_city": "Detroit",
+		"abbreviation": "MI",
+		"region": "Midwest",
+		"image_url": "https://www.michigan.org/sites/default/files/styles/hero_image/public/2020-09/Michigan%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Michigan is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Michigan Cherry Pie",
+				"image_url": "/images/michigan-cherry-pie.jpg",
+				"description": "Michigan cherry pie is a popular dish in Michigan, where it's often served with a side of ice cream."
+			},
+			{
+				"name": "Michigan Cherry Soup",
+				"image_url": "/images/michigan-cherry-soup.jpg",
+				"description": "Michigan cherry soup is a staple in Michigan cuisine, where it's often served with a side of ice cream."
+			}
+		]
+	},
+	{
+		"name": "Minnesota",
+		"capital": "Saint Paul",
+		"largest_city": "Minneapolis",
+		"abbreviation": "MN",
+		"region": "Midwest",
+		"image_url": "https://www.exploreminnesota.com/sites/default/files/styles/hero_image/public/2020-09/Minnesota%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Minnesota is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Minnesota Hot Dish",
+				"image_url": "/images/minnesota-hot-dish.jpg",
+				"description": "Minnesota hot dish is a popular dish in Minnesota, where it's often served with a side of mashed potatoes."
+			},
+			{
+				"name": "Minnesota Wild Rice Soup",
+				"image_url": "/images/minnesota-wild-rice-soup.jpg",
+				"description": "Minnesota wild rice soup is a staple in Minnesota cuisine, where it's often served with a side of mashed potatoes."
+			}
+		]
+	},
+	{
+		"name": "Mississippi",
+		"capital": "Jackson",
+		"largest_city": "Jackson",
+		"abbreviation": "MS",
+		"region": "South",
+		"image_url": "https://www.visitmississippi.org/sites/default/files/styles/hero_image/public/2020-09/Mississippi%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Mississippi is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Mississippi Catfish",
+				"image_url": "/images/mississippi-catfish.jpg",
+				"description": "Mississippi catfish is a popular dish in Mississippi, where it's often served with a side of hushpuppies."
+			},
+			{
+				"name": "Mississippi Gumbo",
+				"image_url": "/images/mississippi-gumbo.jpg",
+				"description": "Mississippi gumbo is a staple in Mississippi cuisine, where it's often served with a side of hushpuppies."
+			}
+		]
+	},
+	{
+		"name": "Missouri",
+		"capital": "Jefferson City",
+		"largest_city": "Kansas City",
+		"abbreviation": "MO",
+		"region": "Midwest",
+		"image_url": "https://www.visitmo.com/sites/default/files/styles/hero_image/public/2020-09/Missouri%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Missouri is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Missouri Ribs",
+				"image_url": "/images/missouri-ribs.jpg",
+				"description": "Missouri ribs are a popular dish in Missouri, where they're often served with a side of fries."
+			},
+			{
+				"name": "Missouri Stew",
+				"image_url": "/images/missouri-stew.jpg",
+				"description": "Missouri stew is a staple in Missouri cuisine, where it's often served with a side of fries."
+			}
+		]
+	},
+	{
+		"name": "Montana",
+		"capital": "Helena",
+		"largest_city": "Billings",
+		"abbreviation": "MT",
+		"region": "West",
+		"image_url": "https://www.visitmt.com/sites/default/files/styles/hero_image/public/2020-09/Montana%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Montana is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "Montana Steak",
+				"image_url": "/images/montana-steak.jpg",
+				"description": "Montana steak is a popular dish in Montana, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Montana Chili",
+				"image_url": "/images/montana-chili.jpg",
+				"description": "Montana chili is a staple in Montana cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Nebraska",
+		"capital": "Lincoln",
+		"largest_city": "Omaha",
+		"abbreviation": "NE",
+		"region": "Midwest",
+		"image_url": "https://www.visitnebraska.com/sites/default/files/styles/hero_image/public/2020-09/Nebraska%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Nebraska is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Nebraska Steak",
+				"image_url": "/images/nebraska-steak.jpg",
+				"description": "Nebraska steak is a popular dish in Nebraska, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Nebraska Chili",
+				"image_url": "/images/nebraska-chili.jpg",
+				"description": "Nebraska chili is a staple in Nebraska cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Nevada",
+		"capital": "Carson City",
+		"largest_city": "Las Vegas",
+		"abbreviation": "NV",
+		"region": "West",
+		"image_url": "https://www.nevadaculture.org/sites/default/files/styles/hero_image/public/2020-09/Nevada%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Nevada is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "Nevada Steak",
+				"image_url": "/images/nevada-steak.jpg",
+				"description": "Nevada steak is a popular dish in Nevada, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Nevada Chili",
+				"image_url": "/images/nevada-chili.jpg",
+				"description": "Nevada chili is a staple in Nevada cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "New Hampshire",
+		"capital": "Concord",
+		"largest_city": "Manchester",
+		"abbreviation": "NH",
+		"region": "Northeast",
+		"image_url": "https://www.visitnh.gov/sites/default/files/styles/hero_image/public/2020-09/New%20Hampshire%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "New Hampshire is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "New Hampshire Lobster",
+				"image_url": "/images/new-hampshire-lobster.jpg",
+				"description": "New Hampshire lobster is a popular dish in New Hampshire, where it's often served with a side of corn on the cob."
+			},
+			{
+				"name": "New Hampshire Clam Chowder",
+				"image_url": "/images/new-hampshire-cl",
+				"description": "New Hampshire clam chowder is a staple in New Hampshire cuisine, where it's often served with a side of corn on the cob."
+			}
+		]
+	},
+	{
+		"name": "New Jersey",
+		"capital": "Trenton",
+		"largest_city": "Newark",
+		"abbreviation": "NJ",
+		"region": "Northeast",
+		"image_url": "https://www.nj.gov/state/parks/images/hero_image.jpg",
+		"description": "New Jersey is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "New Jersey Steak",
+				"image_url": "/images/new-jersey-steak.jpg",
+				"description": "New Jersey steak is a popular dish in New Jersey, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "New Jersey Chili",
+				"image_url": "/images/new-jersey-chili.jpg",
+				"description": "New Jersey chili is a staple in New Jersey cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "New Mexico",
+		"capital": "Santa Fe",
+		"largest_city": "Albuquerque",
+		"abbreviation": "NM",
+		"region": "West",
+		"image_url": "https://www.newmexico.org/sites/default/files/styles/hero_image/public/2020-09/New%20Mexico%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "New Mexico is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "New Mexico Steak",
+				"image_url": "/images/new-mexico-steak.jpg",
+				"description": "New Mexico steak is a popular dish in New Mexico, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "New Mexico Chili",
+				"image_url": "/images/new-mexico-chili.jpg",
+				"description": "New Mexico chili is a staple in New Mexico cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "New York",
+		"capital": "Albany",
+		"largest_city": "New York City",
+		"abbreviation": "NY",
+		"region": "Northeast",
+		"image_url": "https://www.nysparks.com/sites/default/files/styles/hero_image/public/2020-09/New%20York%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "New York is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "New York Steak",
+				"image_url": "/images/new-york-steak.jpg",
+				"description": "New York steak is a popular dish in New York, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "New York Chili",
+				"image_url": "/images/new-york-chili.jpg",
+				"description": "New York chili is a staple in New York cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "North Carolina",
+		"capital": "Raleigh",
+		"largest_city": "Charlotte",
+		"abbreviation": "NC",
+		"region": "South",
+		"image_url": "https://www.ncparks.gov/sites/default/files/styles/hero_image/public/2020-09/North%20Carolina%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "North Carolina is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "North Carolina Steak",
+				"image_url": "/images/north-carolina-steak.jpg",
+				"description": "North Carolina steak is a popular dish in North Carolina, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "North Carolina Chili",
+				"image_url": "/images/north-carolina-chili.jpg",
+				"description": "North Carolina chili is a staple in North Carolina cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "North Dakota",
+		"capital": "Bismarck",
+		"largest_city": "Fargo",
+		"abbreviation": "ND",
+		"region": "Midwest",
+		"image_url": "https://www.ndtourism.com/sites/default/files/styles/hero_image/public/2020-09/North%20Dakota%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "North Dakota is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "North Dakota Steak",
+				"image_url": "/images/north-dakota-steak.jpg",
+				"description": "North Dakota steak is a popular dish in North Dakota, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "North Dakota Chili",
+				"image_url": "/images/north-dakota-chili.jpg",
+				"description": "North Dakota chili is a staple in North Dakota cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Ohio",
+		"capital": "Columbus",
+		"largest_city": "Columbus",
+		"abbreviation": "OH",
+		"region": "Midwest",
+		"image_url": "https://www.ohiostateparks.org/sites/default/files/styles/hero_image/public/2020-09/Ohio%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Ohio is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Ohio Steak",
+				"image_url": "/images/ohio-steak.jpg",
+				"description": "Ohio steak is a popular dish in Ohio, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Ohio Chili",
+				"image_url": "/images/ohio-chili.jpg",
+				"description": "Ohio chili is a staple in Ohio cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Oklahoma",
+		"capital": "Oklahoma City",
+		"largest_city": "Oklahoma City",
+		"abbreviation": "OK",
+		"region": "South",
+		"image_url": "https://www.travelok.com/sites/default/files/styles/hero_image/public/2020-09/Oklahoma%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Oklahoma is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Oklahoma Steak",
+				"image_url": "/images/oklahoma-steak.jpg",
+				"description": "Oklahoma steak is a popular dish in Oklahoma, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Oklahoma Chili",
+				"image_url": "/images/oklahoma-chili.jpg",
+				"description": "Oklahoma chili is a staple in Oklahoma cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Oregon",
+		"capital": "Salem",
+		"largest_city": "Portland",
+		"abbreviation": "OR",
+		"region": "West",
+		"image_url": "https://www.oregonstateparks.org/sites/default/files/styles/hero_image/public/2020-09/Oregon%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Oregon is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "Oregon Steak",
+				"image_url": "/images/oregon-steak.jpg",
+				"description": "Oregon steak is a popular dish in Oregon, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Oregon Chili",
+				"image_url": "/images/oregon-chili.jpg",
+				"description": "Oregon chili is a staple in Oregon cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Pennsylvania",
+		"capital": "Harrisburg",
+		"largest_city": "Philadelphia",
+		"abbreviation": "PA",
+		"region": "Northeast",
+		"image_url": "https://www.visitpa.com/sites/default/files/styles/hero_image/public/2020-09/Pennsylvania%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Pennsylvania is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "Pennsylvania Steak",
+				"image_url": "/images/pennsylvania-steak.jpg",
+				"description": "Pennsylvania steak is a popular dish in Pennsylvania, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Pennsylvania Chili",
+				"image_url": "/images/pennsylvania-chili.jpg",
+				"description": "Pennsylvania chili is a staple in Pennsylvania cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Rhode Island",
+		"capital": "Providence",
+		"largest_city": "Providence",
+		"abbreviation": "RI",
+		"region": "Northeast",
+		"image_url": "https://www.visitrhodeisland.com/sites/default/files/styles/hero_image/public/2020-09/Rhode%20Island%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Rhode Island is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "Rhode Island Steak",
+				"image_url": "/images/rhode-island-steak.jpg",
+				"description": "Rhode Island steak is a popular dish in Rhode Island, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Rhode Island Chili",
+				"image_url": "/images/rhode-island-chili.jpg",
+				"description": "Rhode Island chili is a staple in Rhode Island cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "South Carolina",
+		"capital": "Columbia",
+		"largest_city": "Charleston",
+		"abbreviation": "SC",
+		"region": "South",
+		"image_url": "https://www.southcarolinaparks.com/sites/default/files/styles/hero_image/public/2020-09/South%20Carolina%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "South Carolina is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "South Carolina Steak",
+				"image_url": "/images/south-carolina-steak.jpg",
+				"description": "South Carolina steak is a popular dish in South Carolina, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "South Carolina Chili",
+				"image_url": "/images/south-carolina-chili.jpg",
+				"description": "South Carolina chili is a staple in South Carolina cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "South Dakota",
+		"capital": "Pierre",
+		"largest_city": "Sioux Falls",
+		"abbreviation": "SD",
+		"region": "Midwest",
+		"image_url": "https://www.travelsouthdakota.com/sites/default/files/styles/hero_image/public/2020-09/South%20Dakota%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "South Dakota is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "South Dakota Steak",
+				"image_url": "/images/south-dakota-steak.jpg",
+				"description": "South Dakota steak is a popular dish in South Dakota, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "South Dakota Chili",
+				"image_url": "/images/south-dakota-chili.jpg",
+				"description": "South Dakota chili is a staple in South Dakota cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Tennessee",
+		"capital": "Nashville",
+		"largest_city": "Memphis",
+		"abbreviation": "TN",
+		"region": "South",
+		"image_url": "https://www.tnvacation.com/sites/default/files/styles/hero_image/public/2020-09/Tennessee%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Tennessee is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Tennessee Steak",
+				"image_url": "/images/tennessee-steak.jpg",
+				"description": "Tennessee steak is a popular dish in Tennessee, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Tennessee Chili",
+				"image_url": "/images/tennessee-chili.jpg",
+				"description": "Tennessee chili is a staple in Tennessee cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Texas",
+		"capital": "Austin",
+		"largest_city": "Houston",
+		"abbreviation": "TX",
+		"region": "South",
+		"image_url": "https://www.texasstateparks.org/sites/default/files/styles/hero_image/public/2020-09/Texas%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Texas is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Texas Steak",
+				"image_url": "/images/texas-steak.jpg",
+				"description": "Texas steak is a popular dish in Texas, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Texas Chili",
+				"image_url": "/images/texas-chili.jpg",
+				"description": "Texas chili is a staple in Texas cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Utah",
+		"capital": "Salt Lake City",
+		"largest_city": "Salt Lake City",
+		"abbreviation": "UT",
+		"region": "West",
+		"image_url": "https://www.visitutah.com/sites/default/files/styles/hero_image/public/2020-09/Utah%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Utah is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "Utah Steak",
+				"image_url": "/images/utah-steak.jpg",
+				"description": "Utah steak is a popular dish in Utah, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Utah Chili",
+				"image_url": "/images/utah-chili.jpg",
+				"description": "Utah chili is a staple in Utah cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Vermont",
+		"capital": "Montpelier",
+		"largest_city": "Burlington",
+		"abbreviation": "VT",
+		"region": "Northeast",
+		"image_url": "https://www.vermontvacation.com/sites/default/files/styles/hero_image/public/2020-09/Vermont%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Vermont is a U.S. state located in the Northeast.",
+		"famous_foods": [
+			{
+				"name": "Vermont Steak",
+				"image_url": "/images/vermont-steak.jpg",
+				"description": "Vermont steak is a popular dish in Vermont, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Vermont Chili",
+				"image_url": "/images/vermont-chili.jpg",
+				"description": "Vermont chili is a staple in Vermont cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Virginia",
+		"capital": "Richmond",
+		"largest_city": "Virginia Beach",
+		"abbreviation": "VA",
+		"region": "South",
+		"image_url": "https://www.virginia.org/sites/default/files/styles/hero_image/public/2020-09/Virginia%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Virginia is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "Virginia Steak",
+				"image_url": "/images/virginia-steak.jpg",
+				"description": "Virginia steak is a popular dish in Virginia, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Virginia Chili",
+				"image_url": "/images/virginia-chili.jpg",
+				"description": "Virginia chili is a staple in Virginia cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Washington",
+		"capital": "Olympia",
+		"largest_city": "Seattle",
+		"abbreviation": "WA",
+		"region": "West",
+		"image_url": "https://www.washington.org/sites/default/files/styles/hero_image/public/2020-09/Washington%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Washington is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "Washington Steak",
+				"image_url": "/images/washington-steak.jpg",
+				"description": "Washington steak is a popular dish in Washington, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Washington Chili",
+				"image_url": "/images/washington-chili.jpg",
+				"description": "Washington chili is a staple in Washington cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "West Virginia",
+		"capital": "Charleston",
+		"largest_city": "Charleston",
+		"abbreviation": "WV",
+		"region": "South",
+		"image_url": "https://www.wvtourism.com/sites/default/files/styles/hero_image/public/2020-09/West%20Virginia%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "West Virginia is a U.S. state located in the South.",
+		"famous_foods": [
+			{
+				"name": "West Virginia Steak",
+				"image_url": "/images/west-virginia-steak.jpg",
+				"description": "West Virginia steak is a popular dish in West Virginia, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "West Virginia Chili",
+				"image_url": "/images/west-virginia-chili.jpg",
+				"description": "West Virginia chili is a staple in West Virginia cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Wisconsin",
+		"capital": "Madison",
+		"largest_city": "Milwaukee",
+		"abbreviation": "WI",
+		"region": "Midwest",
+		"image_url": "https://www.travelwisconsin.com/sites/default/files/styles/hero_image/public/2020-09/Wisconsin%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Wisconsin is a U.S. state located in the Midwest.",
+		"famous_foods": [
+			{
+				"name": "Wisconsin Steak",
+				"image_url": "/images/wisconsin-steak.jpg",
+				"description": "Wisconsin steak is a popular dish in Wisconsin, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Wisconsin Chili",
+				"image_url": "/images/wisconsin-chili.jpg",
+				"description": "Wisconsin chili is a staple in Wisconsin cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	},
+	{
+		"name": "Wyoming",
+		"capital": "Cheyenne",
+		"largest_city": "Cheyenne",
+		"abbreviation": "WY",
+		"region": "West",
+		"image_url": "https://www.travelwyoming.com/sites/default/files/styles/hero_image/public/2020-09/Wyoming%20State%20Parks%20-%20Photo%20by%20Dennis%20Poff.jpg?itok=6ZQ5Z7ZJ",
+		"description": "Wyoming is a U.S. state located in the West.",
+		"famous_foods": [
+			{
+				"name": "Wyoming Steak",
+				"image_url": "/images/wyoming-steak.jpg",
+				"description": "Wyoming steak is a popular dish in Wyoming, where it's often served with a side of baked potatoes."
+			},
+			{
+				"name": "Wyoming Chili",
+				"image_url": "/images/wyoming-chili.jpg",
+				"description": "Wyoming chili is a staple in Wyoming cuisine, where it's often served with a side of baked potatoes."
+			}
+		]
+	}
+]
