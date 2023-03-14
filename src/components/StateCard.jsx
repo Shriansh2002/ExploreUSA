@@ -2,13 +2,13 @@ import Link from 'next/link';
 
 const StateCard = ({ state }) => {
 	return (
-		<div className="bg-white rounded-lg shadow-md hover:shadow-lg">
+		<div className="bg-white rounded-lg shadow-lg hover:shadow-2xl">
 			<div>
 				<div className="relative h-48 overflow-hidden">
 					<img
 						src={state.image_url}
 						alt={`Image of ${state.name}`}
-						className="absolute inset-0 object-cover w-full h-full"
+						className="absolute inset-0 object-cover w-full h-full rounded-t-lg"
 					/>
 				</div>
 				<div className="p-6">
