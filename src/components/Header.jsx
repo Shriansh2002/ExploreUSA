@@ -1,4 +1,10 @@
 import Link from 'next/link';
+import { Oswald } from 'next/font/google';
+
+const oswaldFont = Oswald({
+	weight: '400',
+	subsets: ['latin'],
+});
 
 const Header = () => {
 	return (
@@ -7,7 +13,9 @@ const Header = () => {
 				<div className="flex items-center justify-between h-16">
 					<div className="flex items-center">
 						<Link href="/">
-							<p className="font-bold text-3xl text-gray-800">
+							<p
+								className={`font-bold text-3xl ${oswaldFont.className}`}
+							>
 								Explore USA
 							</p>
 						</Link>
