@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const StateCard = ({ state }) => {
 	return (
-		<div className="bg-white rounded-lg shadow-lg hover:shadow-2xl">
+		<div className="bg-white rounded-lg shadow-lg hover:shadow-2xl hover:scale-105 transition duration-500">
 			<div>
 				<div className="relative h-48 overflow-hidden">
 					<img
