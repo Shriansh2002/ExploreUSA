@@ -6,6 +6,13 @@ import Link from 'next/link';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 
+import { Oswald } from 'next/font/google';
+
+const oswaldFont = Oswald({
+  weight: '400',
+  subsets: ['latin'],
+});
+
 export default function Home() {
   return (
     <>
@@ -21,7 +28,7 @@ export default function Home() {
 
         <main className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-4xl font-bold text-gray-800 mb-6">Welcome to Explore USA! 🇺🇸</h1>
+            <h1 className={`text-7xl font-bold text-gray-800 mb-6 ${oswaldFont.className}`}>Welcome to Explore USA! 🇺🇸</h1>
             <p className="text-lg text-gray-600 mb-10">Discover the best places to visit, the most delicious foods to try, and the unique specials of each state in the United States.</p>
             <Link href="/states">
               <p className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">Get Started</p>
