@@ -47,7 +47,7 @@ const SingleStatePage = () => {
                                 </p>
                             </div>
                         </div>
-                        <section className="bg-white py-8 px-16">
+                        <section className="bg-white p-8">
                             <ListOfActivities />
                         </section>
                     </div>
