@@ -1,6 +1,9 @@
 // Next
 import Head from 'next/head';
 
+// React
+import { useState } from 'react';
+
 // Data
 import states from '@/data/statesData.json';
 
@@ -9,6 +12,22 @@ import Header from '@/components/Header';
 import StateCard from '@/components/StateCard';
 
 export default function StatesPage() {
+    const [searchTerm, setSearchTerm] = useState('');
+    const [searchResults, setSearchResults] = useState([]);
+    const [searched, setSearched] = useState(false);
+
+    const handleSearch = () => {
+        setSearched(searchTerm);
+        const results = states.filter((state) =>
+            state.name.toLowerCase().includes(searchTerm.toLowerCase())
+        );
+        setSearchResults(results);
+    };
+
+    const handleInputChange = (event) => {
+        setSearchTerm(event.target.value);
+    };
+
     return (
         <>
             <Head>
@@ -32,23 +51,28 @@ export default function StatesPage() {
                             type="text"
                             placeholder="Search for a state"
                             className="block w-full py-2 pl-10 pr-3 leading-5 rounded-full bg-white border border-gray-300 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent ring-transparent"
-                            onChange={() => { }}
+                            onChange={handleInputChange}
                         />
-                        <a
-                            className="relative inline-flex items-center justify-center overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out rounded-full shadow-xl group hover:ring-1 px-12 py-3 ">
+                        <button
+                            className="relative inline-flex items-center justify-center overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out rounded-full shadow-xl group hover:ring-1 px-12 py-3 "
+                            onClick={handleSearch}
+                        >
                             <span class="absolute inset-0 w-full h-full bg-gradient-to-br from-red-600 via-purple-600 to-blue-700"></span>
                             <span class="absolute bottom-0 right-0 block w-64 h-64 mb-32 mr-4 transition duration-500 origin-bottom-left transform rotate-45 translate-x-24 bg-blue-600 rounded-full opacity-30 group-hover:rotate-90 ease"></span>
                             <span className='relative text-white'>
                                 Search
                             </span>
-                        </a>
-
-
+                        </button>
                     </div>
+
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-between">
-                        {states.map((state, _idx) => (
-                            <StateCard key={_idx} state={state} />
-                        ))}
+                        {searchResults.length > 0
+                            ? searchResults.map((state, idx) => (
+                                <StateCard key={idx} state={state} />
+                            ))
+                            : states.map((state, idx) => (
+                                <StateCard key={idx} state={state} />
+                            ))}
                     </div>
                 </div>
             </>
